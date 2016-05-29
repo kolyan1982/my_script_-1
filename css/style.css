@@ -1,0 +1,17 @@
+body {
+    width: 980px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+
+
+
+form input[type='text'] {
+    width: 100px;
+    margin-bottom: 5px;
+}
